@@ -8,3 +8,5 @@ for i in range(nm):
     bT[N-1-i]=temp;
 for i in range(N):
     print(bT[i],end=' ')
+    
+    
